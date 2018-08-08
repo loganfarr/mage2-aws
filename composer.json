@@ -1,0 +1,17 @@
+{
+    "name": "loganfarr/mage2-aws",
+    "description": "A package to integrate Magento 2 with various AWS services",
+    "type": "vendor",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "aws/aws-sdk-php": ">=3.64",
+        "maxbanton/cwh": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Logan Farr",
+            "email": "logan@loganfarr.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
